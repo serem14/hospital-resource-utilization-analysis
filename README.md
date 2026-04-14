@@ -84,7 +84,7 @@ This analysis helps hospitals optimize resource allocation, reduce unnecessary c
 
  ## Dashboard Preview
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/)
 
 ## Conclusion
 
