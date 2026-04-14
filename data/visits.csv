@@ -1,0 +1,13 @@
+visit_id,patient_id,visits,cost,cost value,cost_per_visit,visit_frequency,cost_intensity,burden
+1,1,2,200,Low,100,Low,Low,Normal
+2,2,6,1800,Medium,300,Medium,Medium,Normal
+3,3,12,2500,High,208.33,High,Medium,High Burden
+4,4,1,200,Low,200,Low,Medium,Normal
+5,5,8,2400,High,300,High,Medium,High Burden
+6,6,5,1800,Medium,360,Medium,High,Normal
+7,7,2,400,Low,200,Low,Medium,Normal
+8,8,12,4500,High,375,High,High,High Burden
+9,9,10,3270,High,327,High,Medium,High Burden
+10,10,2,500,Low,250,Low,Medium,Normal
+11,11,7,2000,High,285.71,Medium,Medium,Normal
+12,12,6,5000,High,833.33,Medium,High,Normal
