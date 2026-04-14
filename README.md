@@ -37,7 +37,7 @@ The project uses two datasets:
 
 ## Dataset Source
 
-The dataset used in this project is a simulated/structured healthcare dataset created for analytical practice.
+The dataset used in this project is a simulated healthcare dataset created for analytical practice.
 
 ## Key Metrics
 
@@ -48,12 +48,12 @@ The dataset used in this project is a simulated/structured healthcare dataset cr
 
 ## SQL Analysis
 
-Key analyses performed:
+The following queries were used to explore cost drivers and patient utilization patterns:
 
-- Patients with high visit frequency  
-- Cost distribution across age groups  
-- High-burden patient identification  
-- Patients with above-average total cost (advanced subquery)  
+- Identified high-frequency patient visits  
+- Analyzed cost distribution across age groups  
+- Detected high-burden patients  
+- Identified above-average cost patients using subqueries
 
 ## Dashboard (Power BI)
 
@@ -71,12 +71,20 @@ The dashboard presents:
 - High-burden patients require targeted intervention  
 - Frequent low-cost visits indicate recurring manageable conditions  
 
+## Business Impact
+
+This analysis helps hospitals optimize resource allocation, reduce unnecessary costs, and improve care for high-risk patients.
+
 ## Recommendations
 
 - Implement follow-up programs for high-risk patients  
 - Introduce preventive care for senior populations  
 - Optimize resource allocation toward high-cost patients  
-- Enhance patient education to reduce recurrent visits  
+- Enhance patient education to reduce recurrent visits
+
+ ## Dashboard Preview
+
+[Dashboard](assets/dashboard.png)
 
 ## Conclusion
 
