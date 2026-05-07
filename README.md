@@ -133,6 +133,15 @@ This analysis enables:
 
 ---
 
+## Future Improvements
+
+- Incorporate real-world healthcare datasets for broader analysis  
+- Add predictive analytics for identifying high-risk patients  
+- Expand dashboard interactivity and filtering options  
+- Perform trend analysis across time-based patient visits
+
+---
+
 ## Conclusion
 
 This project demonstrates the role of data analytics in improving healthcare efficiency by identifying key patient segments, optimizing resource utilization, and supporting informed clinical and operational decisions.
