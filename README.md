@@ -72,22 +72,22 @@ The dashboard provides insights into:
 - High-burden patient segmentation  
 
 ### Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](assets/dashboard.png)
 
 ---
 
 ## SQL Analysis Preview
-![SQL Analysis](screenshots/sql_analysis.png)
+![SQL Analysis](assets/sql_analysis.png)
 
 ---
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](assets/dashboard.png)
 
 ---
 
 ## Clinical Insights Preview
-![Clinical Insights](screenshots/clinical_insights.png)
+![Clinical Insights](assets/clinical_insights.png)
 
 ---
 
