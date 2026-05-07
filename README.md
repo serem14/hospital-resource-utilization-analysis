@@ -40,6 +40,16 @@ This project analyzes hospital patient data to identify patterns in healthcare r
 
 ---
 
+## Project Workflow
+
+1. Data collection and preparation using Excel  
+2. Data import and querying using SQL  
+3. Data analysis and patient segmentation  
+4. Dashboard creation in Power BI  
+5. Insight generation and healthcare recommendations
+
+---
+
 ## SQL Analysis
 
 The following analyses were performed:
@@ -92,6 +102,19 @@ This analysis enables:
 - Introduce chronic disease management programs for senior patients  
 - Strengthen preventive care and patient education  
 - Allocate resources based on patient segmentation rather than uniform distribution  
+
+---
+
+## Skills Demonstrated
+
+- SQL Joins  
+- Aggregations  
+- Subqueries  
+- Data Cleaning  
+- Data Visualization  
+- Dashboard Development  
+- Healthcare Data Interpretation  
+- Analytical Thinking
 
 ---
 
