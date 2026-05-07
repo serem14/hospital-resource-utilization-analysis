@@ -76,6 +76,21 @@ The dashboard provides insights into:
 
 ---
 
+## SQL Analysis Preview
+![SQL Analysis](screenshots/sql_analysis.png)
+
+---
+
+## Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Clinical Insights Preview
+![Clinical Insights](screenshots/clinical_insights.png)
+
+---
+
 ## Key Insights
 
 - Senior patients recorded the highest number of hospital visits, indicating increased demand for chronic disease management  
